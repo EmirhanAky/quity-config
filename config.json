@@ -1,0 +1,12 @@
+{
+  "paywall": {
+    "hard": false,
+    "everyNthOpen": 3,
+    "afterMilestone": true
+  },
+  "message": {
+    "id": "",
+    "title": "",
+    "body": ""
+  }
+}
